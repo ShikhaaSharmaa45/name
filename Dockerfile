@@ -1,1 +1,1 @@
-hi, this is shikha
+FROM nginx
